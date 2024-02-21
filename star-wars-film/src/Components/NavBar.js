@@ -9,10 +9,10 @@ export default function NavBar(){
             <Link to='/'>
                  <Menu.Item name="Search Character"/>
             </Link>
-            <Link to='/'>
+            <Link to='/FilmList'>
                  <Menu.Item name="Films"/>
             </Link>
-            <Link to='/'>
+            <Link to='/Characters'>
                  <Menu.Item name="Characters"/>
             </Link>   
         </Container>
