@@ -13,10 +13,10 @@ function App() {
           <NavBar/>
           <Container>
             <Routes>
-                <Route exact path='/' element={<Search/>}/>
-                <Route exact path='/FilmList' element={<FilmList/>}/>
-                <Route exact path="/Characters" element={<Characters characterUrl ='https://www.swapi.tech/api/people/'/>} />
-            </Routes>
+                  <Route exact path='/' element={<Search/>}/>
+                  <Route exact path='/FilmList' element={<FilmList/>}/>
+                  <Route exact path="/Characters" element={<Characters characterUrl ='https://www.swapi.tech/api/people/'/>} />
+              </Routes>
           </Container>
       </Router>
     </div>
