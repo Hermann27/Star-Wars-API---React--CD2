@@ -91,7 +91,8 @@ const Search = () => {
         }
     }
   return (
-    <Fragment>    
+    <Fragment>   
+        <br/> 
             <form onSubmit={searchHandler}>
                 <div className='input-group mb-3'>
                     <input 
@@ -100,6 +101,7 @@ const Search = () => {
                     placeholder='Search Character..' 
                     type='text'>
                     </input>
+                    
                     <button className='btn btn-primary'>Search</button>
                 </div>
             </form>
