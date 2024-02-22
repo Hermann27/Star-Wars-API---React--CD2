@@ -9,8 +9,8 @@ Follow these steps to run the **Star-Wars-API-Resct--CD2(Code The Dream)** React
 
   1.Clone the Repository: Clone this repository to your local machine using the following command:
       **git clone <repository-url>**
-  2.Navigate to Project Directory: Navigate to the project directory using the following command:
-    cd Star-Wars-API---React--CD2
+  2.Navigate to Project Directory: Navigate to the project directory after open the clone repo project on vscode using the following command to change directory:
+     **cd .\star-wars-film\**
   3.Install Dependencies: Install project dependencies by running:
     npm install
   4.Run the Application: Once the dependencies are installed, you can run the project using:
@@ -26,3 +26,6 @@ If you encounter any issues while setting up or running the project, here are a 
 **Check Node.js** and **npm Versions:** Ensure that you have compatible versions of Node.js and npm installed. You can check the versions using node -v and npm -v respectively.
 **Verify Internet Connection:** If the installation process involves downloading dependencies, fetch data from API, ensure that you have a stable internet connection.
 Check for Error Messages: Pay attention to any error messages that appear during installation or when running the project. **Googling** these error messages often leads to solutions.
+
+
+
