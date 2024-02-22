@@ -6,13 +6,14 @@ Before running the project, make sure you have the following installed on your m
 **npm (Node Package Manager)**: npm comes bundled with Node.js. However, it's recommended to have the latest version. You can update npm using **npm install -g npm**.
 ************************************Getting Started************************************
 Follow these steps to run the **Star-Wars-API-Resct--CD2(Code The Dream)** React project on your local machine:
+*********make sure you have git install on your locla machine in other to use git command.*********
 
   1.Clone the Repository: Clone this repository to your local machine using the following command:
       **git clone <repository-url>**
   2.Navigate to Project Directory: Navigate to the project directory after open the clone repo project on vscode using the following command to change directory:
      **cd .\star-wars-film\**
   3.Install Dependencies: Install project dependencies by running:
-    npm install
+    npm update first then if want to install some dependencies npm install or npm i dependencie
   4.Run the Application: Once the dependencies are installed, you can run the project using:
     npm start
   5.View the Application: Once the project is running, you can view it by opening a web browser and navigating to:

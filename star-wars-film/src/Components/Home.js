@@ -9,7 +9,7 @@ export default function Home() {
       </center>
       <strong>LITTLE BE ABOUT MYSELF</strong>
       <p>
-        My Name is Hermann and I am a software Engineer for couple years of experience.
+        My Name is Hermann and I am a software Engineer with couple years of experience.
         I have a carrer break due to the english language as I immigrated in USA.
         Now, I would like to conitnue on what I like to do: 
            
