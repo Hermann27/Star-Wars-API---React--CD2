@@ -10,18 +10,18 @@ export default function Home() {
       <strong>LITTLE BE ABOUT MYSELF</strong>
       <p>
         My Name is Hermann and I am a software Engineer with couple years of experience.
-        I have a carrer break due to the english language as I immigrated in USA.
+        I have a career break due to the english language as I immigrated in USA.
         Now, I would like to conitnue on what I like to do: 
            
             
       </p>
       <ol>
-            <li> 1.build solution that can help solve a project. </li>
-            <li> 2.Throublesooting existing solution.</li>
-            <li> 3.refactory the exisiting solution code etc....</li>
+            <li> 1.Build solution that can help solve a problem. </li>
+            <li> 2.Throubleshooting existing solution.</li>
+            <li> 3.Refactory the exisiting code and much more...</li>
            </ol>
       <p>
-        <h3>PROJETC</h3>
+        <h3>PROJECT</h3>
       <strong> STRUCTURE:</strong>
             A public GitHub repository containing your project
             An HTML document for the page
